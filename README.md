@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Vue3, Javascript.<br>👨‍💻 All of my projects are available at https://github.com/ozknkrm<br>💬 Ask me about ,Vue3, Javascript<br>📫 How to reach me kerimozkan11@gmail.com
+🌱 I’m currently learning Php and Java.<br>👨‍💻 All of my projects are available at https://github.com/ozknkrm<br>💬 Ask me about ,Vue3, Javascript and Laravel<br>📫 How to reach me kerimozkan11@gmail.com
 
 
 ## 🌐 Socials:
